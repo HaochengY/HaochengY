@@ -2,7 +2,6 @@
 
 ### Computer Vision PhD Researcher | Multimodal Reasoning & VAD
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HaochengY&label=Profile views&color=0e75b6&style=flat" alt="HaochengY" /> </p>
 
 - 🔭 I'm currently working on **Explainable Video Anomaly Detection using multimodal reasoning, scene understanding, and rule-based cognitive frameworks.**
 
