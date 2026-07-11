@@ -1,4 +1,4 @@
-<h2><em>Hi there, I'm Haocheng Yang</em></h2>
+<h2><em>Hi there 👋,, I'm Haocheng Yang</em></h2>
 
 <p>
 <a href="https://github.com/HaochengY"><img src="https://img.shields.io/badge/Haocheng_Yang-GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" height="25px" alt="GitHub"></a>
@@ -6,7 +6,7 @@
 <a href="mailto:haocheng.yang19@student.xjtlu.edu.cn"><img src="https://img.shields.io/badge/Email-XJTLU-blue?style=flat-square&logo=microsoftoutlook&logoColor=white" height="25px" alt="Email"></a>
 </p>
 
-Currently, I am a PhD student at Xi'an Jiaotong-Liverpool University (XJTLU).
+Currently, I am a PhD student at XJTLU (Xi'an Jiaotong-Liverpool University).
 
 🔭 **Reseach-wise, I mainly focus on**:
 - Multi-modal Large Language Models
