@@ -18,9 +18,9 @@ Currently, I am a PhD student at Xi'an Jiaotong-Liverpool University (XJTLU).
 - Email: 2295139147@qq.com
 
 💬 **News**:
-  - 2026-07-10: PEER-VAD is accepted on ACMMM 2026.
-  - 2025-03: I joined XJTLU and started full-time systematic research on the MLLM-VAD topic.
-  - 2024-09-10 - 2025-03: Algorithm Engineer at Baidu.
+  - 2026-07: PEER-VAD is accepted on ACMMM 2026.
+  - 2025-03: I joined XJTLU and started full-time systematic research on the VAD topic.
+  - 2024-09 - 2025-03: Algorithm Engineer at Baidu, Inc.
 
 ----
 
