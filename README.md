@@ -1,33 +1,27 @@
-# Hi 👋, I'm Haocheng
+<h2><em>Hi there, I'm Haocheng Yang</em></h2>
 
-### Computer Vision PhD Researcher | Multimodal Reasoning & VAD
-
-### News
-
-- **2026-07-10:** PEER-VAD is accepted on ACMMM 2026.
-
-- 🔭 I'm currently working on **Explainable Video Anomaly Detection using multimodal reasoning, scene understanding, and rule-based cognitive frameworks.**
-
-- 🌱 I'm currently learning **Reinforcement learning for decision-making, multimodal LLMs (Qwen, LLaVA, etc.), and advanced vision topics such as segmentation refinement, motion modeling, and entity-level video reasoning.**
-
-- 👯 I'm looking to collaborate on **Video Anomlay Detection (VAD), Video Anomaly Understanding (VAU), multimodal reasoning, rule-based inference systems, or any project combining CV + LLMs.**
-
-- 🤝 I'm looking for help with **Designing scalable reasoning frameworks for video understanding, improving temporal consistency in CV pipelines, and integrating symbolic rules with large models.**
-
-- 💬 Ask me about **Video Anomaly Detection, object tracking, multimodal reasoning, Python, model debugging, vision pipelines, or anything about research workflows and reproducibility.**
-
-- 📝 I regularly write articles on **[https://blog.csdn.net/yhc0818?type=blog](https://blog.csdn.net/yhc0818?type=blog)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1dw_HgGV7ijCmGqumQ_zl1z2XgWO7bugT/view?usp=sharing](https://drive.google.com/file/d/1dw_HgGV7ijCmGqumQ_zl1z2XgWO7bugT/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/HaochengY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HaochengY" height="30" width="40" /></a>
+<p>
+<a href="https://github.com/HaochengY"><img src="https://img.shields.io/badge/Haocheng_Yang-GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" height="25px" alt="GitHub"></a>
+<a href="https://blog.csdn.net/yhc0818?type=blog"><img src="https://img.shields.io/badge/CSDN-Blog-red?style=flat-square" height="25px" alt="CSDN Blog"></a>
+<a href="mailto:haocheng.yang19@student.xjtlu.edu.cn"><img src="https://img.shields.io/badge/Email-XJTLU-blue?style=flat-square&logo=microsoftoutlook&logoColor=white" height="25px" alt="Email"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/hadoop" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a></p>
+Currently, I am a PhD student at Xi'an Jiaotong-Liverpool University (XJTLU).
 
+🔭 **Reseach-wise, I mainly focus on**:
+- Multi-modal Large Language Models
+- Video Anomaly Detection
 
+📫 **Contact me by**:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HaochengY&" alt="HaochengY" /></p>
+- Email: haocheng.yang19@student.xjtlu.edu.cn
+- Email: 2295139147@qq.com
+
+💬 **News**:
+  - 2026-07-10: PEER-VAD is accepted on ACMMM 2026.
+  - 2025-03: I joined XJTLU and started full-time systematic research on the MLLM-VAD topic.
+  - 2024-09-10 - 2025-03: Algorithm Engineer at Baidu.
+
+----
+
+[![Haocheng's github stats](https://github-readme-stats.vercel.app/api?username=HaochengY&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
