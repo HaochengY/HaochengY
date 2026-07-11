@@ -2,6 +2,9 @@
 
 ### Computer Vision PhD Researcher | Multimodal Reasoning & VAD
 
+### News
+
+- **2026-07-10:** PEER-VAD is accepted on ACMMM 2026.
 
 - 🔭 I'm currently working on **Explainable Video Anomaly Detection using multimodal reasoning, scene understanding, and rule-based cognitive frameworks.**
 
@@ -28,4 +31,3 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HaochengY&" alt="HaochengY" /></p>
-
