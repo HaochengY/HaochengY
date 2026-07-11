@@ -20,7 +20,7 @@ Currently, I am a PhD student at XJTLU (Xi'an Jiaotong-Liverpool University).
 💬 **News**:
   - 2026-07: PEER-VAD is accepted on ACMMM 2026.
   - 2025-03: I joined XJTLU and started full-time systematic research on the VAD topic.
-  - 2024-09 - 2025-03: Algorithm Engineer at Baidu, Inc.
+  - 2024-09: Algorithm Engineer at Baidu, Inc.
 
 ----
 
